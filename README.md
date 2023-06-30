@@ -1,5 +1,5 @@
 # ShellCodeBypass
-rust 免杀记录学习
+rust 免杀尝试
 
 ## BypassAv_demo1
 实现如下
